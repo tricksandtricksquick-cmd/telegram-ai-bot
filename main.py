@@ -3,7 +3,7 @@ from groq import Groq
 
 # Apni keys yahan paste karein
 BOT_TOKEN = "8802524461:AAHG7MTCSIDUSu0M_qX20bO7izuMYGmVRLs"
-GROQ_API_KEY = "APKI_GROQ_API_KEY"
+GROQ_API_KEY = "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"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 client = Groq(api_key=GROQ_API_KEY)
